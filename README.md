@@ -20,7 +20,7 @@ This is a simple **Chess Board UI** built using **HTML and CSS only**.
 ---
 
 ## 📸 Preview
-(Add screenshot of your chess board here)
+![Chess Board Preview](chess-preview.png)
 
 ---
 
