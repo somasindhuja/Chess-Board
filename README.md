@@ -32,9 +32,7 @@ This is a simple **Chess Board UI** built using **HTML and CSS only**.
 ---
 
 ## 🌐 Live Demo
-(If using GitHub Pages, add link here)
-Example:
-https://your-username.github.io/chess-board/
+https://somasindhuja.github.io/Chess-Board/
 
 ---
 
